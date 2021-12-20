@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "box",
+      "value" : "gold"
+    }, {
+      "trait_type" : "zodiac",
+      "value" : "sheep"
+    } ],
+    "description" : "The world's most adorable zodiac box.",
+    "image" : "https://klayzodiac.xyz/test/images/10.png",
+    "name" : "ZodiacBox#10"
+}

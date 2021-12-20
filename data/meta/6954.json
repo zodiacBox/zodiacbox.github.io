@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #6954",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.xyz/data/image/6954.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "monkey"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}

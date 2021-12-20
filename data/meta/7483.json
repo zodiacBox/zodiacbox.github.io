@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #7483",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.xyz/data/image/7483.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "chicken"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #9525",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.xyz/data/image/9525.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "pig"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}

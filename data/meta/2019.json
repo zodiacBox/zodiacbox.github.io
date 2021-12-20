@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #2019",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.xyz/data/image/2019.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "tiger"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}

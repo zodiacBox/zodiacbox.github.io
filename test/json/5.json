@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "box",
+      "value" : "gold"
+    }, {
+      "trait_type" : "zodiac",
+      "value" : "rabbit"
+    } ],
+    "description" : "The world's most adorable zodiac box.",
+    "image" : "https://klayzodiac.xyz/test/images/5.png",
+    "name" : "ZodiacBox#5"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #4876",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.xyz/data/image/4876.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "horse"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}
