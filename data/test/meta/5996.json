@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #5996",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.github.io/data/test/image/5996.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "sheep"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}

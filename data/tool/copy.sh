@@ -2,8 +2,8 @@
 
 HOME=`dirname "$0"`
 TYPE_HOME="${HOME}/../type"
-META_HOME="${HOME}/../meta"
-IMG_HOME="${HOME}/../image"
+META_HOME="${HOME}/../test/meta"
+IMG_HOME="${HOME}/../test/image"
 
 if [[ $# != 4 ]]; then
     echo "Usage: $0 [json file] [png file] [start_index] [end_index] "

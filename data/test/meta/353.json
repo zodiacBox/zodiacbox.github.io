@@ -1,0 +1,15 @@
+{
+    "name": "Zodiac Box #353",
+    "description": "The world's most adorable zodiac box!",
+    "image": "https://klayzodiac.github.io/data/test/image/353.png",
+    "attributes": [
+        {
+            "trait_type": "zodiac",
+            "value": "mouse"
+        },
+        {
+            "trait_type": "box",
+            "value": "gold"
+        }
+    ]
+}
