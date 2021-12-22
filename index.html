@@ -33,6 +33,7 @@
 						</nav>
 				</div>
 				<div class="bottom">
+					<!-- Nav2 ACTIVE : color: #e27689; -->
 					<nav id="nav2">
 						<ul>
 							<li><a id="connectWallet" href="#" onclick="connectWallet();" class=""><span class="icon solid fa-wallet" id="connectWalletStr" >Connect Wallet</span></a></li>
@@ -53,16 +54,18 @@
 					<section id="top" class="one dark cover">
 						<div class="container">
 							<header>
-								<h2 class="alt">당신의 <strong> 운명 </strong>과 <br class="mobile" />조우하세요. <br /><br class="tablet" /></h2>
-								<p>랜덤 박스를 민팅하여 나만의 <br class="mobile" /><strong> 조디악 박스 </strong>를 먼저 만나 보세요.<br /><br class="tablet" />
-								조디악이 박스에서 깨어나면 조합해 <br class="mobile" /> 더욱 희귀한 <strong> 조디악 </strong>을 만들어 보세요.<br /><br class="tablet" />
+								<h2 class="alt">당신의 <strong> 수호신 </strong>과 <br class="mobile" />조우하세요. <br /><br class="tablet" /></h2>
+								<p>민팅을 통해 나만의 <br class="mobile" /><strong> 수호신 봉인 박스 </strong>를 먼저 만나 보세요.<br /><br class="tablet" />
+								수호신이 박스에서 깨어나면 조합해 <br class="mobile" /> 더욱 강력한 <strong> 수호신 </strong>을 만들어 보세요.<br /><br class="tablet" />
 								지금, 잠들어 있던 당신의 <br class="mobile" /><strong> 운명 </strong>을 깨워주세요.</p>
 							</header>
 								<footer id = "mint">
-								<img id="zodiacBox" class="image resize_20" src="images/ZodiacBox_30Klay.png" alt="">
+									<img id="zodiacBox" class="image resize_20" src="images/ZodiacBox_30Klay.png" alt="">
 								<a id="minting" href="#" class="button scrolly" onClick="TX_MINTING(1)">&nbsp;&nbsp;&nbsp;&nbsp;만나기&nbsp;&nbsp;&nbsp;&nbsp;</a><br>
 								<a id="minting" href="#" class="button scrolly" style="margin-top: 10px;"onClick="TX_MINTING(10)">10개 만나기</a>
+								<br><span id ="remain" class="animate__animated animate__infinite animate__flipInX"></span>
 							</footer>
+
 						</div>
 					</section>
 				<section id="mintbox" class="two white">
@@ -82,8 +85,8 @@
 					<section id="portfolio" class="three dark">
 						<div class="container">
 							<header>
-								<h2><strong>조디악 랜덤 민팅 박스 종류</strong></h2>
-								<p>12개 박스 중 하나가 전달되고, 곧 깨어납니다.</p>
+								<h2><strong>수호신 랜덤 민팅 박스 종류</strong></h2>
+								<p>12 종류의 수호신이 존재하며, 곧 깨어납니다.</p>
 							</header>
 
 							<div id="opacity_5" style="opacity:0;" class="zodiAnimation row white wow animate__animated animate__fadeInUp">
@@ -217,12 +220,15 @@
 					</section>
 
 			</div>
+
 		<!-- Footer -->
 			<div id="footer">
+
 				<!-- Copyright -->
 					<ul class="copyright" style="color: #efe9d9;">
 						<li>&copy; BCP. All rights reserved.</li><li></li>
 					</ul>
+
 			</div>
 
 		<!-- Scripts -->
