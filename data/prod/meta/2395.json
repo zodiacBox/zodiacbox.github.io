@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "box",
+            "value": "gold"
+        },
+        {
+            "trait_type": "zodiac",
+            "value": "tiger"
+        },
+        {
+            "trait_type": "star",
+            "value": 1
+        }
+    ],
+    "description": "KlayZodiacs are a one-of-a-kind collection of unique boxes that can be evolved to next level zodiacs. The boxes will be opened! ",
+    "image": "https://klayzodiac.xyz/data/prod/image/2395.png",
+    "name": "Klay Zodiac #2395"
+}
